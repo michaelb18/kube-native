@@ -3,7 +3,7 @@ pipeline {
     agent any    
     
     environment {
-        MSR_FQDN_PORT='cg8gegpmobayxsgfd-kb5wqm82ldswf2gjo.labs.strigo.io:4443'
+        MSR_FQDN_PORT='cg8gegpmobayxsgfd-tytrtnlhpuc936zdn.labs.strigo.io:4443'
     }
 
     stages {
